@@ -1,9 +1,8 @@
+import 'package:Muheeb_Mehraj/constants/style.dart';
+import 'package:Muheeb_Mehraj/widgets/bold_text.dart';
+import 'package:Muheeb_Mehraj/widgets/regular_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:tour_website/constants/controllers.dart';
-import 'package:tour_website/constants/style.dart';
-import 'package:tour_website/widgets/bold_text.dart';
-import 'package:tour_website/widgets/regular_text.dart';
 
 import 'action_button.dart';
 import 'avatar_widget.dart';

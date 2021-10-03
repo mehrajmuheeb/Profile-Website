@@ -1,7 +1,7 @@
+import 'package:Muheeb_Mehraj/constants/controllers.dart';
+import 'package:Muheeb_Mehraj/widgets/bold_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tour_website/constants/controllers.dart';
-import 'package:tour_website/widgets/bold_text.dart';
 
 import 'experience_card.dart';
 import 'helper.dart';

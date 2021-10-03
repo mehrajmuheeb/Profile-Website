@@ -1,7 +1,7 @@
+import 'package:Muheeb_Mehraj/helpers/responsive_layout_widget.dart';
+import 'package:Muheeb_Mehraj/widgets/bold_text.dart';
+import 'package:Muheeb_Mehraj/widgets/regular_text.dart';
 import 'package:flutter/material.dart';
-import 'package:tour_website/helpers/responsive_layout_widget.dart';
-import 'package:tour_website/widgets/bold_text.dart';
-import 'package:tour_website/widgets/regular_text.dart';
 
 class ExperienceCard extends StatefulWidget {
   final Experience experience;

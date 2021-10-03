@@ -1,10 +1,8 @@
+import 'package:Muheeb_Mehraj/constants/controllers.dart';
+import 'package:Muheeb_Mehraj/widgets/custom_button.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:tour_website/constants/controllers.dart';
-import 'package:tour_website/constants/style.dart';
-import 'package:tour_website/widgets/bold_text.dart';
-import 'package:tour_website/widgets/custom_button.dart';
 
 class ActionButtons extends StatefulWidget {
   const ActionButtons({Key? key}) : super(key: key);

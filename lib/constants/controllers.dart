@@ -1,3 +1,3 @@
-import 'package:tour_website/controllers/home_controller.dart';
+import 'package:Muheeb_Mehraj/controllers/home_controller.dart';
 
 HomePageController homePageController = HomePageController.instance;

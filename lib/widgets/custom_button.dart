@@ -1,7 +1,7 @@
+import 'package:Muheeb_Mehraj/constants/controllers.dart';
+import 'package:Muheeb_Mehraj/constants/style.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:tour_website/constants/controllers.dart';
-import 'package:tour_website/constants/style.dart';
 
 import 'bold_text.dart';
 

@@ -1,17 +1,12 @@
+import 'package:Muheeb_Mehraj/constants/style.dart';
+import 'package:Muheeb_Mehraj/helpers/responsive_layout_widget.dart';
+import 'package:Muheeb_Mehraj/pages/widgets/experience/experience_section.dart';
+import 'package:Muheeb_Mehraj/pages/widgets/intro/intro_large.dart';
+import 'package:Muheeb_Mehraj/pages/widgets/intro/intro_small.dart';
+import 'package:Muheeb_Mehraj/pages/widgets/skills/skill_large.dart';
+import 'package:Muheeb_Mehraj/widgets/regular_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/src/rx_flutter/rx_obx_widget.dart';
-import 'package:tour_website/constants/controllers.dart';
-import 'package:tour_website/constants/style.dart';
-import 'package:tour_website/helpers/responsive_layout_widget.dart';
-import 'package:tour_website/pages/widgets/experience/experience_medium.dart';
-import 'package:tour_website/pages/widgets/experience/experience_section.dart';
-import 'package:tour_website/pages/widgets/intro/avatar_widget.dart';
-import 'package:tour_website/pages/widgets/experience/experience_large.dart';
-import 'package:tour_website/pages/widgets/intro/intro_large.dart';
-import 'package:tour_website/pages/widgets/intro/intro_small.dart';
-import 'package:tour_website/pages/widgets/skills/skill_large.dart';
-import 'package:tour_website/widgets/bold_text.dart';
-import 'package:tour_website/widgets/regular_text.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatefulWidget {

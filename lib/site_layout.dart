@@ -1,8 +1,9 @@
+import 'package:Muheeb_Mehraj/widgets/large_screen_layout.dart';
+import 'package:Muheeb_Mehraj/widgets/small_screen_layout.dart';
+import 'package:Muheeb_Mehraj/widgets/top_nav_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:tour_website/helpers/responsive_layout_widget.dart';
-import 'package:tour_website/widgets/large_screen_layout.dart';
-import 'package:tour_website/widgets/small_screen_layout.dart';
-import 'package:tour_website/widgets/top_nav_bar.dart';
+
+import 'helpers/responsive_layout_widget.dart';
 
 class SiteLayout extends StatelessWidget {
   const SiteLayout({Key? key, required String title}) : super(key: key);

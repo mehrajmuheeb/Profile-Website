@@ -1,8 +1,8 @@
+import 'package:Muheeb_Mehraj/constants/controllers.dart';
+import 'package:Muheeb_Mehraj/constants/style.dart';
+import 'package:Muheeb_Mehraj/helpers/responsive_layout_widget.dart';
+import 'package:Muheeb_Mehraj/widgets/regular_text.dart';
 import 'package:flutter/material.dart';
-import 'package:tour_website/constants/controllers.dart';
-import 'package:tour_website/constants/style.dart';
-import 'package:tour_website/helpers/responsive_layout_widget.dart';
-import 'package:tour_website/widgets/regular_text.dart';
 
 AppBar getNavBar(BuildContext context) => AppBar(
       backgroundColor: primary,

@@ -1,5 +1,5 @@
+import 'package:Muheeb_Mehraj/pages/home_page.dart';
 import 'package:flutter/material.dart';
-import 'package:tour_website/pages/home_page.dart';
 
 class SmallScreen extends StatelessWidget {
   const SmallScreen({Key? key}) : super(key: key);

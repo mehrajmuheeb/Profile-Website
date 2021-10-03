@@ -1,6 +1,6 @@
+import 'package:Muheeb_Mehraj/constants/style.dart';
+import 'package:Muheeb_Mehraj/widgets/bold_text.dart';
 import 'package:flutter/material.dart';
-import 'package:tour_website/constants/style.dart';
-import 'package:tour_website/widgets/bold_text.dart';
 
 class SkillLarge extends StatelessWidget {
   const SkillLarge({Key? key}) : super(key: key);
